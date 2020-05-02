@@ -1,5 +1,4 @@
 Date,cum_confirmed,cum_recovered,cum_deaths,Confirmed,Recovered,Deaths
-1/29/2020,0,0,0,0,0,0
 1/30/2020,1,0,0,1,0,0
 1/31/2020,1,0,0,0,0,0
 2/1/2020,1,0,0,0,0,0
@@ -93,3 +92,4 @@ Date,cum_confirmed,cum_recovered,cum_deaths,Confirmed,Recovered,Deaths
 4/29/2020,33065,8429,1079,1705,690,71
 4/30/2020,34866,9059,1154,1801,630,75
 5/1/2020,37257,10005,1223,2391,946,69
+5/2/2020,3911,10731,1319,2049,710,88
